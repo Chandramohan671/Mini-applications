@@ -13,6 +13,7 @@ Two logins - Admin,User
 
 Admin :
    Login :
+   
       Username - adminkpr
       Password - kpr@1234
       
@@ -85,7 +86,6 @@ User :
    
     2.Existing user - Login through name,password,user id
     
-    
      User Page :
            1.Cart - User can view and edit cart
            2.Order - Order a product and after order note the purchase id for future access purpose
@@ -109,7 +109,6 @@ Admin :
    Username - kpradmin
    Password - admin@123
    
-   
    Admin Page :
    
       1.Available tickets - admin can view the available tickets
@@ -123,14 +122,12 @@ Admin :
    
     2.Existing user - Login through name,password,user id
     
-    
      User Page :
          1.Book ticket - User book a ticket and user should note the bookid for future access purpose
          2.Ticket status - User can view ticket status
          3.Cancel ticket - User can cancel the ticket 
          
         
-
 4.Library Management System
 
     Classes - Mainlibrary.java,User.java,Bok.java,Trans.java
@@ -172,7 +169,6 @@ Admin :
 5.Splitwise Application
 
   Classes -  Main.java,Trans.java,Use.java
-  
   
   Main.java - is a main file where all operations are coded
   Trans.java - is a template for all transactions
