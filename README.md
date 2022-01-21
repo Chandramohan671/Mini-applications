@@ -17,14 +17,15 @@ Admin :
       Password - kpr@1234
       
    Admin Page
+   
    1. Addmoney - Admin add the money in terms of denominations
    2. Showmoney - Admin can view the atm balance and denominations
 
 User :
    Predefined users created already and those users can login
    
-   
    User page
+   
    1.Amount Withdrawal - Withdraw the amount
    2.Balance Check - Check the available balance
    3.Amount Deposit - Deposit the amount in account
@@ -53,12 +54,14 @@ Admin :
    
    
    Admin Page :
+   
         1.Vendor Appoval - Admin approve the vendor invitations
         2.Add Vendor - Admin add the vendor
         3.Remove Vendor - Remove the vendor
         4.View Vendor - View all the vendors
       
 Vendor :
+
     1.New Vendor - Register through name,Password 
     !!!Alert - After registeration Vendor should note the Vendor Id, this id used for future login purpose
    
@@ -204,6 +207,7 @@ Admin :
   
   
    Admin Page :
+   
           1.Add a vehicle - admin can add a vehicle and 
           2.Modify vehicle - modification of vehicle
           3.Delete vehicle - vehicle deletion
@@ -220,6 +224,7 @@ Admin :
       
       
       User Page :
+      
              1.Rent a vehicle - vehicle rent
              2.Add a vehicle to cart - add vehicle to cart
              3.Remove a vehicle from cart - vehicle removal from cart
