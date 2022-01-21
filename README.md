@@ -51,6 +51,7 @@ Order.java - is class for template for Order details
 Login - Admin,User,Vendor
 
 Admin :
+
    Username - kpradmin
    Password - admin@123
    
@@ -106,6 +107,7 @@ Booktr.java - is a template for Bookings
 Login - Admin,User
 
 Admin :
+
    Username - kpradmin
    Password - admin@123
    
@@ -141,6 +143,7 @@ Admin :
  Login - Admin,User
  
  Admin :
+ 
    Username - kpradmin
    Password - admin@123
    
@@ -203,6 +206,7 @@ Rent.java - is a template for all renting
 Login - Admin,User
 
 Admin :
+
    Username - kpradmin
    Password - admin@123
   
