@@ -185,11 +185,14 @@ Admin :
   
   
       User Page :
-              1.Send amount payment request to all - user can send payment request to others
-              2.Check for payment request - user can check payment requests
-              3.Wallet - user can view and edit wallet
-              4.Previous payments and requests - user can view previous payments and requests
-              5.Status of payment requests - updates of payments requests
+              1.Send amount payment request to all - user can send payment request to all
+              2.Send amount payment request to friend - user can send request to friend
+              3.Check for payment request - user can check payment requests
+              4.Wallet - user can view and edit wallet
+              5.Previous payments and requests - user can view previous payments and requests
+              6.Status of payment requests - updates of payments requests
+              7.Add friend - user can add a friend
+              8.Remove friend - user can remove a friend
               
               
               
