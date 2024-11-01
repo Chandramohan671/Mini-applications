@@ -1,5 +1,3 @@
-# LLD based Console level Application
-
 ZOHO Console Mini Applications
 
 
